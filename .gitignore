@@ -1,0 +1,6 @@
+build/
+romfs/
+NFCReader.3dsx
+NFCReader.elf
+NFCReader.smdh
+.vscode/
